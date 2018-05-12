@@ -1,0 +1,36 @@
+_repo: The-Corner-House-GirlsHow-they-moved-to-Milton-what-they-found-and-what-they-did_38743
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Owen, Robert Emmett
+    alias: Owen, R. Emmett (Robert Emmett)
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '5821'
+    url: http://www.gutenberg.org/2009/agents/5821
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hill, Grace Brooks
+    gutenberg_agent_id: '9684'
+    url: http://www.gutenberg.org/2009/agents/9684
+description: ''
+gutenberg_issued: '2012-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38743'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Mystery fiction'
+title: 'The Corner House Girls
+
+  How they moved to Milton, what they found, and what they did'
+url: http://www.gutenberg.org/ebooks/38743
