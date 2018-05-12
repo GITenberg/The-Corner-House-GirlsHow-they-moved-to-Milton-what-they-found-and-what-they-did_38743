@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '9684'
     url: http://www.gutenberg.org/2009/agents/9684
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38743#The-Corner-House-GirlsHow-they-moved-to-Milton-what-they-found-and-what-they-did
 gutenberg_issued: '2012-02-01'
 gutenberg_type: Text
 identifiers:
